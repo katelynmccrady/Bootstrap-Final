@@ -3,3 +3,42 @@ header { background-image: url("costarica.jpg");
 background-repeat: no-repeat;
 background-position: center;
 background-size: cover;}
+
+
+.prata-regular {
+  font-family: "Prata", serif;
+  font-weight: 400;
+  font-style: normal;}
+
+
+
+.montserrat-<uniquifier> {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;}
+
+h1 {font-family: "Prata";
+color: lightgoldenrodyellow;}
+h2 {font-family: "Prata";
+color: #82ADB6}
+p {font-family: "Montserrat"}
+
+.navbar { background-color: #82ADB6 !important;}
+.navbar-brand { font-family: "Prata";}
+.nav-link { font-family:"Prata";}
+.dropdown-menu { font-family: "Prata"; }
+footer p { background-color: #82ADB6 !important;
+  font-family:"Prata" !important; }
+.custom-footer {
+  background-color: #82ADB6;
+  font-family: "Prata";}
+
+body {background-color: lightgoldenrodyellow; } 
+.bg-light {background-color: #F6F6B1 !important;}
+
+a:link {color: #82ADB6; text-decoration: none;}
+a:visited {color: #82ADB6; text-decoration: none;} 
+a:hover {color: slateblue;text-decoration: underline;}
+a:focus { outline: 2px solid slateblue; }
+a:active {text-decoration: underline;}
